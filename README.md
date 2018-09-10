@@ -3,10 +3,4 @@
 ### 메인화면 스크린 샷 :
 ![Screenshot1](AML/images/picpic2.jpg)
 
----
-
-### 팀소개 : 
-![Screenshot2](AML/images/picpic1.jpg)
-
-* 팀장 : 김정원
-* 팀원 : 김도현, 조은재, 이광용, 이지연
+## 얼마랩 홈페이지 : https://secondblock.cafe24.com
