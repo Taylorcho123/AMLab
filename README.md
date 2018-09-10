@@ -6,7 +6,7 @@
 ---
 
 ### 팀소개 : 
-[Screenshot2](AML/images/picpic1.jpg)
+![Screenshot2](AML/images/picpic1.jpg)
 
 * 팀장 : 김정원
 * 팀원 : 김도현, 조은재, 이광용, 이지연
